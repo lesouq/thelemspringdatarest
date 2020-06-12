@@ -51,3 +51,7 @@ Afin d'éviter des conflits lors du lancement de l'application il faut ajouter d
 Pour vérifier l'Api sur le navigateur: https://localhost:8080/api
 On obtient un lien vers l'entity Studentet on obtient les données initier dans DatabaseLoader.
 On peut également aller sur Student avec son Id: https://localhost:8080/api/Students/1
+
+# Conclusion
+
+Je pense que dans le cadre de Thelem Spring Data Rest permettra de supprimer une bonne partie du travail manuel généralement associé à ce type de tâches et de simplifier la mise en oeuvre des fonctionnalités de la base de CRUD pour les appli web.
