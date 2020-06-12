@@ -1,2 +1,0 @@
-# thelemspringdatarest
-test_spring_data_rest_thelem_assurance
